@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Here's my portfolio<br>🎓 B.E. in Electronics and Communication Engineering<br>💻 Aspiring Full Stack Developer<br>🌟 Passionate about embracing new challenges and opportunities<br>Welcome to my GitHub profile! I'm passionate about developing innovative solutions and constantly learning new technologies. I'm actively looking for opportunities to contribute, grow, and make an impact in the tech world.<br><br>Let's connect and create something amazing together!
+🔭 Here's my [portfolio](https://aravinthan.netlify.app/)<br>🎓 B.E. in Electronics and Communication Engineering<br>💻 Aspiring Full Stack Developer<br>🌟 Passionate about embracing new challenges and opportunities<br>Welcome to my GitHub profile! I'm passionate about developing innovative solutions and constantly learning new technologies. I'm actively looking for opportunities to contribute, grow, and make an impact in the tech world.<br><br>Let's connect and create something amazing together!
 
 
-## 🌐 Socials:
+## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravinthanbalaji/) 
 
 # 💻 Tech Stack:
@@ -15,6 +15,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravinthan333&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aravinthan333&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Aravinthan333&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
